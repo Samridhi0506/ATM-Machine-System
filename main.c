@@ -12,7 +12,6 @@ int main()
 {
     atm_machine_transaction();
     printf("Thank you for the visit!\n");
-    return 0;
 }
 
 // Function definition for operations in ATM Machine
